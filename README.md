@@ -150,29 +150,6 @@ Campus-Placement-Prediction
 
 ---
 
-## How to Run
-
-- Clone the repository
-
-```bash
-git clone https://github.com/apoorva1503/Campus-Placement-Prediction.git
-```
-
-- Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-- Open the notebook
-
-```
-notebook/campus-placement-prediction-model.ipynb
-```
-
-- Run all notebook cells to reproduce the results.
-
----
 
 ## Results
 
@@ -197,9 +174,9 @@ notebook/campus-placement-prediction-model.ipynb
 
 ## Author
 
-**Apoorv Kumar Sahu**
+**Apoorva Kumar Sahu**
 
 - B.Tech, Information Technology
-- National Institute of Technology Raipur
+- National Institute of Technology, Raipur
 
 GitHub: https://github.com/apoorva1503
